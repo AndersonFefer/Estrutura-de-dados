@@ -1,0 +1,7 @@
+C:\Users\ander\source\repos\Atividade PROVA\Atividade PROVA\bin\Debug\Atividade PROVA.exe.config
+C:\Users\ander\source\repos\Atividade PROVA\Atividade PROVA\bin\Debug\Atividade PROVA.exe
+C:\Users\ander\source\repos\Atividade PROVA\Atividade PROVA\bin\Debug\Atividade PROVA.pdb
+C:\Users\ander\source\repos\Atividade PROVA\Atividade PROVA\obj\Debug\Atividade PROVA.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\Atividade PROVA\Atividade PROVA\obj\Debug\Atividade PROVA.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\Atividade PROVA\Atividade PROVA\obj\Debug\Atividade PROVA.exe
+C:\Users\ander\source\repos\Atividade PROVA\Atividade PROVA\obj\Debug\Atividade PROVA.pdb
