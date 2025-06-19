@@ -1,0 +1,7 @@
+C:\Users\ander\source\repos\fila de atrndimento\fila de atrndimento\bin\Debug\fila de atrndimento.exe.config
+C:\Users\ander\source\repos\fila de atrndimento\fila de atrndimento\bin\Debug\fila de atrndimento.exe
+C:\Users\ander\source\repos\fila de atrndimento\fila de atrndimento\bin\Debug\fila de atrndimento.pdb
+C:\Users\ander\source\repos\fila de atrndimento\fila de atrndimento\obj\Debug\fila de atrndimento.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\fila de atrndimento\fila de atrndimento\obj\Debug\fila de atrndimento.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\fila de atrndimento\fila de atrndimento\obj\Debug\fila de atrndimento.exe
+C:\Users\ander\source\repos\fila de atrndimento\fila de atrndimento\obj\Debug\fila de atrndimento.pdb
