@@ -1,0 +1,14 @@
+C:\Users\ander\Desktop\atividade22\bin\Debug\net6.0\MenuEstruturasDados_AtividadeCompleta.exe
+C:\Users\ander\Desktop\atividade22\bin\Debug\net6.0\MenuEstruturasDados_AtividadeCompleta.deps.json
+C:\Users\ander\Desktop\atividade22\bin\Debug\net6.0\MenuEstruturasDados_AtividadeCompleta.runtimeconfig.json
+C:\Users\ander\Desktop\atividade22\bin\Debug\net6.0\MenuEstruturasDados_AtividadeCompleta.dll
+C:\Users\ander\Desktop\atividade22\bin\Debug\net6.0\MenuEstruturasDados_AtividadeCompleta.pdb
+C:\Users\ander\Desktop\atividade22\obj\Debug\net6.0\MenuEstruturasDados_AtividadeCompleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\atividade22\obj\Debug\net6.0\MenuEstruturasDados_AtividadeCompleta.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\atividade22\obj\Debug\net6.0\MenuEstruturasDados_AtividadeCompleta.AssemblyInfo.cs
+C:\Users\ander\Desktop\atividade22\obj\Debug\net6.0\MenuEstruturasDados_AtividadeCompleta.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\atividade22\obj\Debug\net6.0\MenuEstruturasDados_AtividadeCompleta.dll
+C:\Users\ander\Desktop\atividade22\obj\Debug\net6.0\refint\MenuEstruturasDados_AtividadeCompleta.dll
+C:\Users\ander\Desktop\atividade22\obj\Debug\net6.0\MenuEstruturasDados_AtividadeCompleta.pdb
+C:\Users\ander\Desktop\atividade22\obj\Debug\net6.0\MenuEstruturasDados_AtividadeCompleta.genruntimeconfig.cache
+C:\Users\ander\Desktop\atividade22\obj\Debug\net6.0\ref\MenuEstruturasDados_AtividadeCompleta.dll

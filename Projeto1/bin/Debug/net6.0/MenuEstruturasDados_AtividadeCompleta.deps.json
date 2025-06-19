@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MenuEstruturasDados_AtividadeCompleta/1.0.0": {
+        "runtime": {
+          "MenuEstruturasDados_AtividadeCompleta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MenuEstruturasDados_AtividadeCompleta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
