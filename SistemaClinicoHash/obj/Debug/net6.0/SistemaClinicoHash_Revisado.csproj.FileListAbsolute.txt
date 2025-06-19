@@ -1,0 +1,14 @@
+C:\Users\ander\Desktop\SistemaClinicoHash\obj\Debug\net6.0\SistemaClinicoHash_Revisado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\SistemaClinicoHash\obj\Debug\net6.0\SistemaClinicoHash_Revisado.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\SistemaClinicoHash\obj\Debug\net6.0\SistemaClinicoHash_Revisado.AssemblyInfo.cs
+C:\Users\ander\Desktop\SistemaClinicoHash\obj\Debug\net6.0\SistemaClinicoHash_Revisado.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\SistemaClinicoHash\bin\Debug\net6.0\SistemaClinicoHash_Revisado.exe
+C:\Users\ander\Desktop\SistemaClinicoHash\bin\Debug\net6.0\SistemaClinicoHash_Revisado.deps.json
+C:\Users\ander\Desktop\SistemaClinicoHash\bin\Debug\net6.0\SistemaClinicoHash_Revisado.runtimeconfig.json
+C:\Users\ander\Desktop\SistemaClinicoHash\bin\Debug\net6.0\SistemaClinicoHash_Revisado.dll
+C:\Users\ander\Desktop\SistemaClinicoHash\bin\Debug\net6.0\SistemaClinicoHash_Revisado.pdb
+C:\Users\ander\Desktop\SistemaClinicoHash\obj\Debug\net6.0\SistemaClinicoHash_Revisado.dll
+C:\Users\ander\Desktop\SistemaClinicoHash\obj\Debug\net6.0\refint\SistemaClinicoHash_Revisado.dll
+C:\Users\ander\Desktop\SistemaClinicoHash\obj\Debug\net6.0\SistemaClinicoHash_Revisado.pdb
+C:\Users\ander\Desktop\SistemaClinicoHash\obj\Debug\net6.0\SistemaClinicoHash_Revisado.genruntimeconfig.cache
+C:\Users\ander\Desktop\SistemaClinicoHash\obj\Debug\net6.0\ref\SistemaClinicoHash_Revisado.dll
